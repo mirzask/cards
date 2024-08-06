@@ -5,6 +5,7 @@ tags:
 - See:
 	- [[Pulsed Wave Doppler]]
 	- [[Continuous Wave Doppler]]
+	- [[Tissue Doppler]]
 
 # Doppler Pattern Recognition
 

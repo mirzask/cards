@@ -3,6 +3,7 @@ tags:
   - echo
   - lifehack
   - researchideas
+draft: true
 ---
 
 # Stroke Volume
