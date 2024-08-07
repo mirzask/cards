@@ -7,7 +7,7 @@ tags:
 ## [[Pressure Half Time (PHT)]]
 
 
-> [!warning] Don't use PHT alone for diagnosis of AR severity
+> [!warning]- Don't use PHT alone for diagnosis of AR severity
 > Important limitations of PHT in aortic regurgitation, so don't base determination on PHT alone.
 
 
