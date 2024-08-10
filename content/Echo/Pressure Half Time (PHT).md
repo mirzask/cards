@@ -21,6 +21,11 @@ This is based on the observation that PHT is **always** 29% of your deceleration
 
 # Mitral Valve Area (MVA) from PHT
 
+
+> [!warning]- PHT to assess MVA doesn't work as well in patients with [[Mitral Annular Calcification (MAC)|MAC]]
+> ![[Pressure Half Time (PHT)-20240809230516460.webp]]
+
+
 $$
 \text{Mitral Valve Area (MVA)} = \frac{220}{\text{PHT}}
 $$

@@ -6,7 +6,7 @@ aliases:
 ---
 - Bicuspid aortic valve (BAV) disease is the most common congenital cardiac defect.
 	- Affects 0.5% to 2.0% of adults
-	- 3:1 male-to-female predominance
+	- 3:1 male-to-female predominance, or as Dr. Skolnick put it "70% are men."
 - While the BAV can be found in isolation, it is often associated with other congenital cardiac lesions.[^siu]
 	- Dilation of the proximal ascending aorta secondary to abnormalities of the aortic media (most common)
 		- [[Aortic Disease|Aortic aneurysms]] is 20% to 40%

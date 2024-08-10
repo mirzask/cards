@@ -6,6 +6,7 @@ aliases:
 ---
 
 - The RV is much more sensitive to [[Afterload|afterload]] changes than the LV
+	- b/c RV has lower systolic elastance compared to the LV
 	- LV is a thicker, more muscular ventricle, ∴ the LV is able to handle ↑ afterload. This is *not* the case for the RV. For example, in acute PE the right heart can struggle.
 # Echo
 

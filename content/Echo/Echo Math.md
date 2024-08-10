@@ -67,6 +67,13 @@ From the Mayo Board Review course, which highlights the importance of assessing 
 $$
 \text{SVR} = \frac{\text{MAP - CVP}}{\text{CO}}
 $$
+
+Using IVC collapsibility indices to estimate RAP, and arm blood pressure measurements to calculate mean arterial pressure, SVR (in Wood units) can be calculated as
+
+$$
+\text{SVR} = \frac{\text{MAP} - \text{RAP}}{\text{CO}}
+$$
+
 # Pulmonary Vascular Resistance (PVR)
 
 $$

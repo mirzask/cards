@@ -10,5 +10,13 @@ draft: true
 	- RA, RV Dimensions, Volume, Function ✅
 	- Doppler, Color, Hemodynamics
 		- Doppler and Color Flow Imaging ✅
-		- Advanced Echo Hemodynamics: TODO
+		- Advanced Echo Hemodynamics: 🚧 Finished ~35 mins
 	- TEE & 3D Echo: TODO
+- Fundamentals of Echo II
+	- Contrast Echo
+	- Diastolic Function
+		- Basics
+		- Complex
+	- M-Mode for Boards
+	- NBME Format
+	- Physics Cases
