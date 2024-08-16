@@ -6,6 +6,9 @@ aliases:
   - MBF
   - MBFR
 ---
+- Interpretation of myocardial perfusion imaging (MPI) studies has been primarily qualitative or semi-quantitative in nature, assessing regional perfusion defects in relative terms. Quantitative positron emission tomography (PET) measurements of myocardial blood flow (MBF) in absolute terms (milliliters per gram per minute) offer a paradigm shift in the evaluation and management of patients with CAD.[^asnc]
+	- Coincides with shift from anatomical gold standard (i.e., coronary angiogram) to a functional one
+- Non-invasive quantification of MBF extends the scope of conventional MPI from detection of end-stage, advanced, and flow-limiting epicardial CAD to early stages of atherosclerosis or microvascular dysfunction and assessment of balanced reduction of MBF in all three major coronary arteries.[^asnc]
 - Useful to couple MPI with [[Cardiac PET Imaging#Quantification of Myocardial Blood Flow|quantification of myocardial blood flow (MBF)]] as MBF adds usefulness in 6 distinctive areas: [^bateman]
 	- Improved diagnosis of epicardial CAD
 	- Improved assessment of extent and severity of epicardial CAD
@@ -15,9 +18,7 @@ aliases:
 		- Diagnosis of **coronary microvascular disease**, a common cause of cardiac-related symptoms. Coronary microvascular disease, with or without epicardial CAD, has prognostic and quality of life significance in both women and men, and is addressable by targeted therapies.
 	- Provides assurance that vasodilator stress has been effective
 		- Confirmation of adequate pharmacologic stress in patients who may not respond to pharmacologic stressors and go totally unrecognized with traditional MPI, with the risk of an apparently normal scan in the presence of severe coronary disease. The only way to be certain that vasodilation and hence augmentation of blood flow has occurred is by measuring MBF.
-- Interpretation of myocardial perfusion imaging (MPI) studies has been primarily qualitative or semi-quantitative in nature, assessing regional perfusion defects in relative terms. Quantitative positron emission tomography (PET) measurements of myocardial blood flow (MBF) in absolute terms (milliliters per gram per minute) offer a paradigm shift in the evaluation and management of patients with CAD.[^asnc]
-	- Coincides with shift from anatomical gold standard (i.e., coronary angiogram) to a functional one
-- Non-invasive quantification of MBF extends the scope of conventional MPI from detection of end-stage, advanced, and flow-limiting epicardial CAD to early stages of atherosclerosis or microvascular dysfunction and assessment of balanced reduction of MBF in all three major coronary arteries.[^asnc]
+
 
 # Coronary Flow Reserve (CFR)
 

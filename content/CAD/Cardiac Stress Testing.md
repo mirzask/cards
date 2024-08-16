@@ -24,12 +24,19 @@ tags:
 	- Lifetime risk 400% for 20-year-old woman vs. 50-year-old man
 	- Estimated additional risk of 10 mSv dose is 1:2,000 for age distribution of US population
 	- Mean age of patients undergoing MPI imaging ~65 yrs
-
+- Testing based on patient characteristics
+	- Intermediate-risk ASx patient → [[Cardiac Stress Testing#Exercise ECG|Exercise ECG]]
+		- Stress imaging, e.g. [[Stress Echocardiography]], [[Positron Emission Tomography (PET)|PET]], etc. are Class III (no benefit) for low or intermediate-risk patients, but can be considered if:
+			- DM
+			- Strong family history of CHD
+			- Previous risk assessment testing suggests high risk of CHD, (eg, [[Coronary Artery Calcium (CAC)|CAC]] score ≥ 400)
 # Exercise ECG
 
 - Widely available and inexpensive
 - Interpretable ECG
-- Ability to exercise to an adequate level
+- Requires ability to exercise to an adequate level
+- Who should you test?
+	- Intermediate-risk ASx adults (including considering starting a vigorous exercise program), particularly when attention is paid to exercise capacity
 - Limited diagnostic accuracy
 	- sensitivity ~60% & specificity ~70%
 - Avoid if pre-existing ECG abnormalities
