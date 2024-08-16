@@ -203,9 +203,10 @@ $$
 	- Severe AS is characterized by a fixed valve area, resulting in an increase in transaortic velocity to ≥4 m/s (mean gradient ≥40 mm Hg) at any flow rate, but with valve area remaining ≤1.0 cm2. 
 	- In contrast, in patients with moderate AS and primary LV dysfunction, there is an increase in valve area as volume flow rate increases, resulting in only a modest increase in transaortic velocity or gradient, i.e. peak velocity remains < 4 m/s or mean gradient < 40 mmHg with even as high of 20 mcg/kg/min of [[Dobutamine|dobutamine]]
 	- Some patients fail to show an increase in [[Stroke Volume|stroke volume]] ≥20% with [[Dobutamine|dobutamine]], referred to as “lack of contractile reserve” or “lack of flow reserve.”
+	- ![[Aortic Stenosis-20240810140033768.webp|612]]
 - DSE is not completely without risks because it may induce or aggravate arrhythmias and cause worsening of mitral regurgitation, especially in patients with advanced cardiomyopathies. [^adrichem]
 
-## Cardiac CT and [[Coronary Artery Calcification]] Score in AS
+## Cardiac CT and [[Aortic Valve]] Calcification Score in AS
 
 - The degree of aortic valve calcification (AVC) correlates with AS severity according to current European and American guidelines.
 - Agatston threshold for severe AS is ≥ 2,000 AU for men and ≥ 1200 AU for women.[^adrichem]  (FYI, I've also seen 1,300 used as threshold in women)

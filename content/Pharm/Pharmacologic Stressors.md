@@ -1,0 +1,14 @@
+---
+tags:
+  - stresstesting
+---
+- Vasodilators vs [[Dobutamine]]
+- [[Dobutamine]]
+	- Beta-adrenergic agonist: $\beta_1 >> \beta_2$
+	- Hemodynamic effects similar to exercise
+	- Increases in coronary flow less than vasodilator stress
+	- Dose increased incrementally to 40 mcg/min/kg
+	- [[Atropine]] administered to increase HR if required
+	- Use in pts unable to exercise with a contraindication to vasodilator stress
+	- Side-effects: palpitations, CP, dyspnea, headache, arrhythmia, Bezold-Jarisch reflex
+	- Contraindications same as for exercise stress
