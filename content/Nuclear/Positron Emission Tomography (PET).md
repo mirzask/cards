@@ -1,6 +1,8 @@
 ---
 tags:
   - stresstesting
+aliases:
+  - PET
 ---
 - Goal of evaluating myocardial perfusion with PET imaging is to detect <u>physiologically significant</u> coronary artery narrowing to guide clinical management of patients with known or suspected CAD and those without overt CAD but with cardiovascular risk factors.[^asnc]
 	- Normal myocardial perfusion on stress images implies the absence of physiologically significant CAD. 
@@ -30,6 +32,9 @@ tags:
 - PET [[Radionuclides|radionuclides]] reach a more stable configuration by the emission of a **positron**.[^asnc]
 	- **Positrons** are positively charged particles with the same rest mass as **electrons**.
 - Compared to [[Coronary Computed Tomography Angiography (CCTA)|CCTA]], which provides information on the presence and extent of anatomical luminal narrowing of epicardial coronary arteries, stress myocardial perfusion PET provides information on the downstream functional consequences of such anatomic lesions. Thus, with [[Positron Emission Tomography (PET)#Hybrid PET/CT|hybrid PET/CT]] systems, complementary information of anatomy and physiology can be obtained during the same imaging session.[^asnc]
+- Hybrid Imaging
+	- In all cases, the manufacturer starts with a state-of-the-art PET scanner. The manufacturer then adds a CT system, with 64 or more slices.[^asnc]
+	- Originally, the [[Positron Emission Tomography (PET)#Hybrid PET/CT|hybrid PET/CT]] camera was developed for [[Attenuation Correction (AC)|attenuation correction]] and anatomical co-localization purposes, more modern machines have CT scanners that are of diagnostic quality, which allows the assessment of both [[Coronary Artery Calcium (CAC)|CAC]] scoring and CT angiography.[^asnc]
 
 > [!warning] [[Left Bundle Branch Block (BBB)|Left BBB]]
 > In the presence of left bundle branch block (LBBB), where the septal 18F-FDG uptake is spuriously decreased, the septum should not be used as the site for normalization. Accordingly, the ECG should be reviewed in conjunction with perfusion/viability imaging. [^asnc]
@@ -67,7 +72,34 @@ tags:
 - **Hybrid PET/MR**
 		- For example, co-registration of 18F-FDG metabolic imaging with morphological, functional, and tissue imaging attributes of MR presents new opportunities for disease characterization, such as cardiac sarcoidosis, hallmarked by inflammatory injury, non-caseating granuloma formation, and organ dysfunction which could be the first clinical application of PET/MR in cardiology.[^asnc]
 
-# Advantages over [[Single-photon emission computed tomography (SPECT)|SPECT]]
+# [[Positron Emission Tomography (PET)|PET]] versus [[Single-photon emission computed tomography (SPECT)|SPECT]]
+
+- [[Single-photon emission computed tomography (SPECT)|SPECT]]
+	- Single photon emission is used for image creation
+	- Camera "focused" with a collimator
+	- Low energy (~70-165 keV)
+	- **[[Attenuation Correction (AC)|Attenuation correction]] is unavailable for many traditional SPECT systems**
+	- Drug typically delivered in unit dose for perfusion
+	- images are generated with rotating gamma cameras[^asnc]
+- PET
+	- Two photons from single decay
+	- Camera "focused" electronically, i.e. no collimator
+	- High energy (511 keV)
+	- **[[Attenuation Correction (AC)|Attenuation correction]] simple and necessary**
+	- Currently, most cardiac PET tracers are produced on site
+	- F-18 FDG is available as unit dose
+	- typically generated with non-moving circular arrays of scintillation detectors that acquire all projection data simultaneously[^asnc]
+
+|                         | SPECT     | PET    |
+| ----------------------- | --------- | ------ |
+| Spatial Resolution      | X         | ~2X    |
+| Contrast Resolution     | X         | ~2X    |
+| Count Density/Unit time | X         | ~4X    |
+| Attentuation Correction | Not usual | Always |
+| Scatter compensation    | X         | ~5X    |
+
+PET always has attenuation correction. SPECT on the other hand doesn't always have it (outside of our lab...)
+## Advantages of [[Positron Emission Tomography (PET)]] over [[Single-photon emission computed tomography (SPECT)|SPECT]]
 
 - Compared with [[Single-photon emission computed tomography (SPECT)|SPECT]] MPI, the advantages of PET MPI include improved spatial resolution, better [[Attenuation Correction (AC)|attenuation correction]], and lower radiation dose. These advantages are highly relevant in viability images because they allow better identification of the presence, extent, and severity of scar.
 	- Moreover, the PET system is more sensitive than a [[Single-photon emission computed tomography (SPECT)|SPECT]] system due to the higher count rate and provides the possibility of [[Attenuation Correction (AC)|attenuation correction]].[^asnc]
