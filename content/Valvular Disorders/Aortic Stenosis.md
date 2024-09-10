@@ -216,8 +216,11 @@ $$
 
 - "The LV doesn't care why it's struggling," so in a patient with hypertension, the LV is fighting against the stenotic [[Aortic Valve|AV]] and hypertension.
 	- Recall, systemic hypertension imposes a second pressure load on the LV, in addition to valve obstruction → ↓ forward stroke volume and lower transaortic pressure gradient than when the patient is normotensive.
+- [[Transcatheter Aortic Valve Implantation (TAVI)]]
 
 ![[Aortic Stenosis-20240809184849220.webp]]
+
+![[A2021_5_4_Otto10.gif]]
 
 # Congenital Aortic Valve Malformations
 
