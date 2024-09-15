@@ -81,6 +81,7 @@ The following figure illustrates the interplay of factors that influence myocard
 
 # Severe AS
 
+- In up to 40% of patients, resting echocardiographic assessment of aortic stenosis severity is discordant, leading to clinical uncertainty.[^pawade]
 - Resources
 	- 📄Barnhart, G. R., Martin, R. P., Thomas, J. D., & McCarthy, P. M. (2020). The Need for Echocardiography Alerts for Aortic Stenosis: The Time Has Come. Journal of the American Society of Echocardiography, 33(3), 355–357. https://doi.org/10.1016/j.echo.2019.11.005
 
@@ -192,7 +193,9 @@ $$
 $$
 ## Treadmill exercise testing
 
-- If the patient is <u>asymptomatic</u>, then assess with a simple treadmill exercise test.
+- If the patient is <u>asymptomatic</u> with severe AS (stage C1), then assess with a simple treadmill exercise test.
+	- If s/he develops Sx with exercise testing, then Class 1 indication for aortic valve replacement (AVR)
+	- if s/he is noted to have decreased exercise tolerance (normalized for age/sex) *or* a fall in systolic BP >10 mm Hg from baseline to peak exercise, AVR would be reasonable (Class 2a)
 - "In a subset of asymptomatic patients with severe AS, exercise testing can provide additional diagnostic and prognostic information, but it should not be performed in symptomatic patients with severe AS." [^2020-accaha]
 
 ## [[Dobutamine Stress Echocardiography]] in [[Aortic Stenosis#Low-flow, Low-gradient AS|low-flow, low-gradient AS]]
@@ -208,10 +211,13 @@ $$
 
 ## Cardiac CT and [[Aortic Valve]] Calcification Score in AS
 
+- AV calcification score provides a load independent assessment of aortic stenosis severity.[^pawade]
+- Measurement of aortic valve calcification is useful in assessing aortic stenosis severity in patients for whom echocardiography is not conclusive.[^pawade]
 - The degree of aortic valve calcification (AVC) correlates with AS severity according to current European and American guidelines.
-- Agatston threshold for severe AS is ≥ 2,000 AU for men and ≥ 1200 AU for women.[^adrichem]  (FYI, I've also seen 1,300 used as threshold in women)
+- [[Coronary Artery Calcium (CAC)|Agatson]] threshold for severe AS is ≥ 2,000 AU for men and ≥ 1200 AU for women.[^adrichem]  (FYI, I've also seen 1,300 used as threshold in women [^pawade])
 - [^adrichem] point out that the above thresholds were defined using AS defined with predominantly concordant AS Echo measurements, which isn't the case in low-flow, low-gradient (Stage D) AS. In their study, [^adrichem] find that CAC scores had poor discrimination between AS severity, so probably worth sticking to [[Dobutamine Stress Echocardiography|DSE]] for these patients.
 
+![[Aortic Stenosis-20240914205844052.webp]]
 # Management of AS
 
 - "The LV doesn't care why it's struggling," so in a patient with hypertension, the LV is fighting against the stenotic [[Aortic Valve|AV]] and hypertension.
@@ -269,3 +275,5 @@ $$
 [^adrichem]: Adrichem, R., Hokken, T. W., Bouwmeester, S., Abdelkarim, O., Vogel, B., Blusztein, D. I., Veulemans, V., Kuneman, J. H., Geleijnse, M. L., Verhemel, S., Van den Dorpel, M. M. P., Kardys, I., Tonino, P. A. L., Chang, S. M., Faza, N. N., Jou, S., Ueyama, H. A., Bartkowiak, J., Zeus, T., … Van Mieghem, N. M. (2024). Diagnostic Value of Aortic Valve Calcification Levels in the Assessment of Low-Gradient Aortic Stenosis. JACC: Cardiovascular Imaging, 17(8), 847–860. https://doi.org/10.1016/j.jcmg.2024.03.014
 [^2020-accaha]: Otto, C. M., Nishimura, R. A., Bonow, R. O., Carabello, B. A., Erwin, J. P., Gentile, F., Jneid, H., Krieger, E. V., Mack, M., McLeod, C., O’Gara, P. T., Rigolin, V. H., Sundt, T. M., Thompson, A., & Toly, C. (2021). 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation, 143(5). https://doi.org/10.1161/cir.0000000000000923
 [^treibel]: Treibel, T. A., Badiani, S., Lloyd, G., & Moon, J. C. (2019). Multimodality Imaging Markers of Adverse Myocardial Remodeling in Aortic Stenosis. JACC: Cardiovascular Imaging, 12(8), 1532–1548. https://doi.org/10.1016/j.jcmg.2019.02.034
+[^pawade]: Pawade, T., Sheth, T., Guzzetti, E., Dweck, M. R., & Clavel, M.-A. (2019). Why and How to Measure Aortic Valve Calcification in Patients With Aortic Stenosis. JACC: Cardiovascular Imaging, 12(9), 1835–1848. https://doi.org/10.1016/j.jcmg.2019.01.045
+

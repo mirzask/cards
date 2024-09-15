@@ -7,10 +7,32 @@ tags:
 
 - Common causes include:
 	- [[Endocarditis]]
-	- Papillary muscle rupture, e.g. after recent MI or infarction
+	- [[Mitral Regurgitation#Papillary muscle rupture|Papillary muscle rupture]] or chordal muscle rupture, e.g. after recent MI or infarction
 		- Can result in flail leaflet
+- Sudden ↑ in LA and LV volume in the absence of compensatory LV or atrial dilation.
+- Management
+	- Urgent surgery
 
+## Post-MI Mitral Regurgitation
+
+### Papillary muscle rupture
+
+- Complicates 1-5% of acute Medications
+- Usually 2-7 days after the acute ischemic event; typically first MI
+- Posteromedial papillary muscle more commonly ruptured (10x more likely) due to have single blood supply (posterior descending artery)
+	- The anterolateral papillary muscle has dual blood supply
+- ⚠️ Exam may not have feature a hyperdynamic precordium or audible murmur
+	- d/t rapid and complete equalization of pressure between the LV and LA. 
+	- By contrast, [[Ventricular Septal Defect (VSD)|ventricular septal rupture]] would present similarly, but you'll hear a loud murmur.
+
+### Ischemic Mitral Regurgitation
+
+![[Mitral Regurgitation-20240914213058036.webp]]
 # Chronic [[Mitral Regurgitation]]
+
+- Results in LV volume overload → ventricular (and atrial) remodeling w/ eccentric hypertrophy, i.e. LV dilation w/o increased wall thickness.
+- Can be tolerated for several years. Only after several years (typically), may it lead to ↓ contractility and systolic dysfunction → ↑ pulmonary venous pressure, ↓ SV and ↓ CO.
+	- ↑ LAP: pulmonary congestion, [[Pulmonary Hypertension|pulmonary hypertension]], and [[Atrial Fibrillation|atrial fibrillation]]
 
 > [!NOTE] 4, 5, 6, 7 of **Severe** MR
 > ERO ≥ 0.4 cm2
@@ -25,6 +47,7 @@ Source: Page 8 of [Zoghbi slides](https://asecho.org/wp-content/uploads/2018/02/
 
 - Primary or Secondary (functional) MR?
 	- differentiates 1˚ lesions of the mitral leaflets and subvalvular apparatus from 2˚ dysfunction d/t annular or LV dilatation/remodeling and/or dysfunction.
+- Most common causes of MR: [[Mitral Regurgitation#Secondary Mitral Regurgitation|Secondary MR]] is the most prevalent form of MR, followed by [[Mitral Valve Prolapse (MVP)]], ischemic MR.
 - Primary MR includes:
 	- myxomatous ∆, notably [[Mitral Valve Prolapse (MVP)]]
 	- [[Mitral Annular Calcification (MAC)]]
@@ -79,5 +102,8 @@ Source: Page 8 of [Zoghbi slides](https://asecho.org/wp-content/uploads/2018/02/
 
 
 ## Secondary [[Mitral Regurgitation]]
+
+- Secondary MR occurs in approximately 65% of cases reported with left ventricular dysfunction or remodeling as the predominant cause.
+- 
 
 ![](https://www.ahajournals.org/cms/asset/e9cbd478-390a-4a2a-86b8-6d548bafea20/cir.0000000000000923.fig09.gif)

@@ -21,7 +21,9 @@ aliases:
 	- [[Aortic Dissection|aortic dissection]]
 	- [[Endocarditis|endocarditis]]
 - Despite the potential complications, 2 large contemporary series have demonstrated that life expectancy in adults with BAV disease is not shortened when compared with the general population.[^siu]
-
+- [[Turner syndrome]]
+	- BAV prevlance is ~30% in women with Turner syndrome; is 30-60x more frequent in women with Turner syndrome than in women with 46,XX.
+	- By contrast, 7-18% of women with Turner syndrome have [[Aortic Coarctation|aortic coarctation]].
 # Management
 
 - Many undergoing aortic valve replacement will also need aortic root surgery b/c BAV is a disease of both the [[Aortic Valve|aortic valve]] and [[Aorta|aorta]] [^siu]
