@@ -5,12 +5,17 @@ aliases:
   - TAVR
   - TAVI
 ---
+
 # When TAVR over [[Surgical Aortic Valve Replacement (SAVR)|SAVR]]?
 
 - "porcelain" aorta
 	- ![[Transcatheter Aortic Valve Implantation (TAVI)-20240904175800048.webp|426]]
 	- risk of cross-clamping the calcific aorta
 - Factors that ↑ cardiac surgical risk, e.g. prior chest radiation, severe lung, liver, or renal disease
+
+# Management
+
+- Antiplatelet: [[Aspirin|aspirin]] 75 to 100 mg daily is reasonable in the absence of other indications for oral anticoagulants (Class 2a)
 
 # When palliation over TAVR?
 

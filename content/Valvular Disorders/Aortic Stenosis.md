@@ -98,6 +98,9 @@ Can be caused by either arrhythmia, obstruction, or due to vasodepressor effect 
 # Low-flow, Low-gradient AS
 
 - Observed when there is discordance in [[Echo Doppler|Doppler]] measurements, i.e. gradient < 40 mmHg and AVA < 1.0.
+- If suspecting LFLG AS, calculate the **dimensionless index (DI)** (ratio ≤ 0.25 consistent with *severe* AS), which is calculated either:
+	- using spectral Doppler to access the LV outflow tract to transaortic velocity ratio or 
+	- the LV outflow tract to transaortic valve velocity-time integral (more reliable method)
 - Additional testing [^2020-accaha]
 	- LFLG AS
 		- Calculate ratio of [[Left Ventricular Outflow Tract (LVOT)|LVOT]] velocity to aortic velocity to further define severity (Class 2a)
@@ -111,6 +114,8 @@ Can be caused by either arrhythmia, obstruction, or due to vasodepressor effect 
 - Stage D2 if EF < 50%
 - Stage D3 if EF ≥ 50%
 - TODO
+
+![[Aortic Stenosis-20240920194206117.webp]]
 # Diagnosis
 
 ## Stages of AS Severity
@@ -144,16 +149,20 @@ Can be caused by either arrhythmia, obstruction, or due to vasodepressor effect 
 ###  Grading of AS
 
 - ==Valvular AS will be considered **severe** if mean gradient > 40 mmHg *or* peak velocity > 4 m/s (regardless of AVA)==
+	- ⚠️ With <u>mixed</u> aortic valve disease, significant AR can increase peak aortic valve velocity and mean aortic valve gradients because of high flow.
+	- ⚠️ Valve area typically is ≤1 cm2 with severe AS but may be larger with 1) mixed stenosis and regurgitation or 2) in patients with a large body habitus.
+- **Aortic velocity** is measured using [[Continuous Wave Doppler|continuous-wave doppler]] ultrasound with examination from multiple acoustic windows
+- **Mean gradient** is calculated by averaging instantaneous gradients over the systolic ejection period using the modified Bernoulli equation, $\Delta P = 4V^2$
 - AVA is important, but can be difficult to determine with the [[Echo Math#Continuity Equation for Aortic Valve Area|continuity equation]], which itself is highly operator dependent
 	- Use if mean gradient < 40 mmHg or peak velocity < 4 m/s
 
-|                      | Mild AS | Moderate AS | Severe AS | Very Severe AS |
-| -------------------- | ------- | ----------- | --------- | -------------- |
-| AVA (cm2)            | >1.5    | 1.5-1       | <1        |                |
-| Mean gradient (mmHg) | <20     | 20-40       | >40       | >60            |
-| Peak velocity (m/s)  | <3      | 3-4         | >4        | >5             |
-| Indexed AVA (cm2/m2) | >0.85   | 0.60-0.85   | <0.6      |                |
-| Velocity ratio       | >0.50   | 0.25-0.50   | <0.25     |                |
+|                      | Aortic sclerosis | Mild AS | Moderate AS | Severe AS | Very Severe AS |
+| -------------------- | ---------------- | ------- | ----------- | --------- | -------------- |
+| AVA (cm2)            | -                | >1.5    | >1.0-1.5    | ≤1.0      | ≤0.60          |
+| Mean gradient (mmHg) | -                | <20     | 20-40       | >40       | >60            |
+| Peak velocity (m/s)  | <2.0 m/s         | 2.0-2.9 | 3.0-3.9     | ≥4.0      | ≥5.0           |
+| Indexed AVA (cm2/m2) |                  | >0.85   | >0.60-0.85  | ≤0.6      |                |
+| Velocity ratio       |                  | >0.50   | >0.25-0.50  | ≤0.25     |                |
 
 > [!warning] Underestimation due to improper [[Echo Doppler|Doppler]] alignment across the [[Aortic Valve]]
 > If not parallel to the AS jet, you will not get the highest mean AV gradient or peak velocity across the AV → underestimate severity of AS. Importantly, you cannot *overestimate* the gradient (Exceptions: significant anemia or [[Subaortic Stenosis]]).
