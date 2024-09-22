@@ -30,12 +30,17 @@ tags:
 ![[Mitral Regurgitation-20240914213058036.webp]]
 # Chronic [[Mitral Regurgitation]]
 
+- "If you see MR, you need to ask **why**?"
+	- "A comprehensive evaluation of valvular regurgitation should include identifying the mechanism and the severity of valvular regurgitation, along with adaptation of the heart to the volume overload."
+
+![[Mitral Regurgitation-20240922132907877.webp|442]]
+
 - Results in LV volume overload → ventricular (and atrial) remodeling w/ eccentric hypertrophy, i.e. LV dilation w/o increased wall thickness.
 - Can be tolerated for several years. Only after several years (typically), may it lead to ↓ contractility and systolic dysfunction → ↑ pulmonary venous pressure, ↓ SV and ↓ CO.
 	- ↑ LAP: pulmonary congestion, [[Pulmonary Hypertension|pulmonary hypertension]], and [[Atrial Fibrillation|atrial fibrillation]]
 
 > [!NOTE] 4, 5, 6, 7 of **Severe** MR
-> ERO ≥ 0.4 cm2
+> EROA ≥ 0.4 cm2
 > Regurgitant fraction ≥ 50%
 > Regurgitant volume ≥ 60 mL
 > Vena contracta ≥ 0.7 cm
