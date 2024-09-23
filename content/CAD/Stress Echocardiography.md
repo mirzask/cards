@@ -3,6 +3,16 @@ tags:
   - stresstesting
 ---
 
+- **Contraindications**
+	- Poor windows
+	- Unable to reach target HR
+	- Uncontrolled [[Heart Failure with Reduced Ejection Fraction (HFrEF)|HF]]
+	- High-risk unstable angina, active ACS or AMI (<2 d)
+	- Serious ventricular arrhythmia or high risk for arrhythmias attributable to QT prolongation
+	- Respiratory failure
+	- Severe COPD, [[Pulmonary Embolism|acute PE]], severe [[Pulmonary Hypertension|pulmonary hypertension]]
+	- Contraindications to [[Dobutamine|dobutamine]] (if pharmacologic stress test needed)
+	- Severe systemic arterial [[Hypertension|hypertension]] (e.g., ≥200/110 mm Hg)
 - Useful if patient can exercise and ECG uninterpretable
 - Widely available & easy to perform
 - Inexpensive

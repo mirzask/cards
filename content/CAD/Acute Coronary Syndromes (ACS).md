@@ -6,10 +6,12 @@ tags:
 ```text
 Chest pain
 - Initial troponin ***
-	- Continue to trend troponins to peak
+	- Continue to trend troponins to peak every 1-3 hrs for hsTn (3-6 hrs if conventional troponin assays)
 - ECG: ***
 	- If nondiagnostic, consider serial ECGs to detect potential ischemic changes including if CP recurs or clinical deterioration
 - CXR to r/o other potential cardiac, pulmonary, and thoracic causes
+- Optimize GDMT/anti-anginal therapy (if known CAD)
+- Work-up to exclude other causes of CP
 ```
 
 # Chest Pain
@@ -39,6 +41,48 @@ Schema [source](https://clinicalproblemsolving.com/dx-schema-chest-pain/)
 	- [[Diabetes|diabetes mellitus]]
 	- renal dysfunction
 	- dementia
+
+## Non-cardiac causes of chest pain
+
+- **Respiratory**
+	- [[Pulmonary Embolism]]
+	- Pneumothorax/hemothorax
+	- Pneumomediastinum
+	- Pneumonia
+	- Bronchitis
+	- Pleural irritation
+	- Malignancy
+- **GI**
+	- Cholecystitis
+	- Pancreatitis
+	- Hiatal hernia
+	- Gastroesophageal reflux disease/gastritis/esophagitis
+	- Peptic ulcer disease
+	- Esophageal spasm
+	- Dyspepsia
+- **MSK**
+	- Costochondritis
+	- Chest wall trauma or inflammation
+	- Herpes zoster (shingles)
+	- Cervical radiculopathy
+	- Breast disease
+	- Rib fracture
+	- Musculoskeletal injury/spasm
+- **Pain disorder**
+	- Panic disorder
+	- Anxiety
+	- Clinical depression
+	- Somatization disorder
+	- Hypochondria
+- **Other**
+	- Hyperventilation syndrome
+	- Carbon monoxide poisoning
+	- [[Sarcoidosis]]
+	- Lead poisoning
+	- Prolapsed intervertebral disc
+	- Thoracic outlet syndrome
+	- Adverse effect of certain medications (e.g., 5-fluorouracil)
+	- Sickle cell crisis
 # Unstable angina
 
 | Class             | Presentation                                                                                                                                                                             |
@@ -47,11 +91,40 @@ Schema [source](https://clinicalproblemsolving.com/dx-schema-chest-pain/)
 | New-onset angina  | New-onset angina of at least CCS class III severity.                                                                                                                                     |
 | Increasing angina | Previously diagnosed angina that has become distinctly more frequent, longer duration, or lower in threshold (i.e., increased by 1 or more CCS class to at least CCS class III severity) |
 
+# Risk Scores for Patient Stratification
+
+|                                                      | HEART Pathway                                                      | EDACS                                                              | ADAPT (mADAPT)                                                     | NOTR                                                                  | 2020 ESC/hs-cTn                            | 2016 ESC/GRACE                                                                                       |
+| ---------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| Target population                                    | Suspected ACS                                                      | Suspected ACS, CP >5 min, planned serial troponin                  | Suspected ACS, CP >5 min, planned observation                      | Suspected ACS, ECG, troponin ordered                                  | Suspected ACS, stable                      | Suspected ACS, planned serial troponin                                                               |
+| Target outcome                                       | ↑ ED discharge without increasing missed 30-d or 1-y MACE          | ↑ ED discharge rate without increasing missed 30-d MACE            | ↑ ED discharge rate without increasing missed 30-d MACE            | ↑ Low-risk classification without increasing missed 30-d MACE         | Early detection of AMI; 30-d MACE          | Early detection of AMI                                                                               |
+| Patients with primary outcome in study population, % | 6–22                                                               | 12                                                                 | 15                                                                 | 5–8                                                                   | 9.8                                        | 10–17                                                                                                |
+| Troponin                                             | cTn, hs-cTn                                                        | hs-cTn                                                             | cTn, hs-cTn                                                        | cTn, hs-cTn                                                           | hs-cTn                                     | cTn, hs-cTn                                                                                          |
+| Variables used                                       | History  <br>ECG  <br>Age  <br>Risk factors  <br>Troponin (0, 3 h) | Age  <br>Sex  <br>Risk factors  <br>History  <br>Troponin (0, 2 h) | TIMI score 0-1  <br>No ischemic ECG changes  <br>Troponin (0, 2 h) | Age  <br>Risk factors  <br>Previous AMI or CAD  <br>Troponin (0, 2 h) | History  <br>ECG  <br>hs-cTn (0, 1 or 2 h) | Age  <br>HR, SBP  <br>Serum Cr  <br>Cardiac arrest  <br>ECG  <br>Cardiac biomarker  <br>Killip class |
+![[Acute Coronary Syndromes (ACS)-20240923121531173.webp]]
 # Cardiac Testing
 
 Test selection should be based on **patient risk and pre-test likelihood of CAD** and may be influenced by site expertise and availability[^cp]
 
+[^cp] recommends using [[Acute Coronary Syndromes (ACS)#Risk Scores for Patient Stratification|clinical decision pathways (CDPs)]] to categorize patients into low-, intermediate-, and high-risk.
+
 ![[Acute Coronary Syndromes (ACS)-20240923103358028.webp]]
+
+## Intermediate-risk Patients
+
+### Intermediate Risk and no known [[Coronary Artery Disease (CAD)|CAD]]
+
+![[Acute Coronary Syndromes (ACS)-20240923121936870.webp|671]]
+Figure source: Figure 9 of [^cp]
+
+### Intermediate Risk with known [[Coronary Artery Disease (CAD)|CAD]]
+
+- High-risk CAD features include:
+	- left main disease
+	- proximal LAD disease
+	- multivessel CAD
+- Class 1 indication for invasive coronary angiography for a patient with intermediate-risk p/w acute chest pain with high-risk CAD.
+![[Acute Coronary Syndromes (ACS)-20240923122835996.webp|602]]
+Figure source: Figure 10 of [^cp]
 
 ## Selection of Stress Imaging versus [[Coronary Computed Tomography Angiography (CCTA)|CCTA]]
 

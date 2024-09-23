@@ -27,6 +27,12 @@ CFR = coronary flow reserve; ECG = electrocardiogram; FFR = fractional flow rese
 	- Step 2: [[Ischemia with Nonobstructive Coronary Arteries (INOCA)#Physiologic Testing|Physiologic testing]] to assess for [[Microvascular Dysfunction|coronary microvascular disease]]
 	- Step 3: [[Ischemia with Nonobstructive Coronary Arteries (INOCA)#Provocative Testing|Provocative testing]] to assess for <u>epicardial</u> and/or <u>microvascular</u> [[Vasospastic Angina|vasospastic angina]]
 	- ![[Ischemia with Nonobstructive Coronary Arteries (INOCA)-20240817153141814.webp|722]]
+
+# Chest Pain
+
+![[Ischemia with Nonobstructive Coronary Arteries (INOCA)-20240923130154796.webp|644]]
+Figure source: Figure 14 of [^cp]
+
 # Physiologic Testing
 
 - Comprehensive <u>physiologic</u> assessment using a pressure sensor guidewire is needed to discriminate myocardial ischemia caused by epicardial coronary artery lesions and **coronary microvascular disease** [^asia]
@@ -55,3 +61,4 @@ Caption: Invasive physiologic indexes are helpful in identifying the presence of
 - Complications include refractory spasm by provocation test or fatal arrhythmia
 
 [^asia]: Hwang, D., Park, S.-H., & Koo, B.-K. (2023). Ischemia With Nonobstructive Coronary Artery Disease. JACC: Asia, 3(2), 169–184. https://doi.org/10.1016/j.jacasi.2023.01.004
+[^cp]: Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Journal of the American College of Cardiology. 2021;78(22):e187-e285. doi:10.1016/j.jacc.2021.07.053

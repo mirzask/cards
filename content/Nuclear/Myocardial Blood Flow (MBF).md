@@ -22,6 +22,7 @@ aliases:
 
 # Coronary Flow Reserve (CFR)
 
+Myocardial Blood Flow Reserve (MBFR) is the ratio of peak hyperemia to resting myocardial blood flow. MBFR adds diagnostic and prognostic information over MPI data.
 $$
 \text{CFR} = \frac{\text{stress MBF}}{\text{rest MBF}}
 $$

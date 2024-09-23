@@ -137,6 +137,46 @@ PET always has attenuation correction. SPECT on the other hand doesn't always ha
 - The 2D compilation of perfusion and metabolism data can then easily be assigned to specific vascular territories. 
 - ⚠️ These derivative polar maps should NOT be considered a substitute for the examination of the standard short-axis and long-axis cardiac tomographic slices.
 
+![[Positron Emission Tomography (PET)-20240923133005534.webp]]
+
+# Reading a <u>Normal</u> PET
+
+- Steps
+	- Review Transmission and Emission images
+		- Ensure that the CT and perfusion images are properly aligned/registered with one another. If not aligned, you'll have to tweak things so that you have good co-registration.
+	- Adjust the reconstruction planes
+	- Review rest and stress reconstructed images
+	- Score the [[Positron Emission Tomography (PET)#Polar Maps|polar maps]]
+	- Review the rest and stress gated images/dyssnchrony/ histogram?
+	- Review the [[Myocardial Blood Flow (MBF)|blood flow]]
+	- Review the CT images
+	- Generate a clinically meaningful report
+
+```text
+CONCLUSIONS:
+1. PET Perfusion Study: Normal.
+2. No evidence of ischemia.
+3. No evidence of scarred myocardium.
+4. Left ventricle is normal in size. The left ventricle systolic function is normal.
+5. Right ventricle is normal in size. The right ventricle systolic function is normal.
+6. This is a low risk scan.
+7. Incidental Findings from limited non-diagnostic CAC:
+	- Coronary calcifications visualized.
+
+Prior Study Comparison Prior nuclear cardiology exam was performed on
+[10/09/2018]. Shows no change.
+```
+
+# Quality Control
+
+## Histogram for HR
+
+## Histogram to assess for Dyssnchrony
+
+# Reporting PET Findings
+
+- Some institutions will use the appropriate use criteria (AUC) as the indication for the test.
+- 
 
 [^imaging]: Garcia, M. J., Kwong, R. Y., Scherrer-Crosbie, M., Taub, C. C., Blankstein, R., Lima, J., Bonow, R. O., Eshtehardi, P., & Bois, J. P. (2020). State of the Art: Imaging for Myocardial Viability: A Scientific Statement From the American Heart Association. Circulation: Cardiovascular Imaging, 13(7). https://doi.org/10.1161/hci.0000000000000053
 [^asnc]: Dilsizian V, Bacharach SL, Beanlands RS, et al. ASNC imaging guidelines/SNMMI procedure standard for positron emission tomography (PET) nuclear cardiology procedures. Journal of Nuclear Cardiology. 2016;23(5):1187-1226. doi:10.1007/s12350-016-0522-3
