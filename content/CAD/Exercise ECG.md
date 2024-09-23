@@ -9,7 +9,7 @@ tags:
 - **Contraindications**
 	- Abnormal ST changes on resting ECG, [[Digoxin|digoxin]], [[Left Bundle Branch Block (BBB)|LBBB]], Wolff-Parkinson- White pattern, ventricular paced rhythm (unless test is performed to establish exercise capacity and not for diagnosis of ischemia)
 	- Unable to achieve ≥5 METs or unsafe to exercise
-	- High-risk unstable angina or AMI (<2 d) i.e., active [[Acute Coronary Syndromes (ACS)|ACS]]
+	- High-risk unstable angina or AMI (<2 d) i.e., active [[Chest Pain|ACS]]
 	- Uncontrolled [[Heart Failure with Reduced Ejection Fraction (HFrEF)|HF]]
 	- Significant cardiac arrhythmias (e.g., [[Ventricular Tachycardia|VT]], complete atrioventricular block) or high risk for arrhythmias caused by QT prolongation
 	- Severe symptomatic [[Aortic Stenosis|aortic stenosis]]

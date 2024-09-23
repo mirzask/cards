@@ -83,6 +83,7 @@ Schema [source](https://clinicalproblemsolving.com/dx-schema-chest-pain/)
 	- Thoracic outlet syndrome
 	- Adverse effect of certain medications (e.g., 5-fluorouracil)
 	- Sickle cell crisis
+
 # Unstable angina
 
 | Class             | Presentation                                                                                                                                                                             |
@@ -105,7 +106,7 @@ Schema [source](https://clinicalproblemsolving.com/dx-schema-chest-pain/)
 
 Test selection should be based on **patient risk and pre-test likelihood of CAD** and may be influenced by site expertise and availability[^cp]
 
-[^cp] recommends using [[Acute Coronary Syndromes (ACS)#Risk Scores for Patient Stratification|clinical decision pathways (CDPs)]] to categorize patients into low-, intermediate-, and high-risk.
+[^cp] recommends using [[Chest Pain#Risk Scores for Patient Stratification|clinical decision pathways (CDPs)]] to categorize patients into low-, intermediate-, and high-risk.
 
 ![[Acute Coronary Syndromes (ACS)-20240923103358028.webp]]
 
