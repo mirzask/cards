@@ -47,7 +47,7 @@ flowchart TD
 		- Heterozygous [[Familial Hyperlipidemia|FH]]
 		- Prior CABG/PCI (Not major ASCVD event)
 		- CKD (eGFR 15-59)
-		- Hx of [[Heart Failure]]
+		- Hx of [[Heart Failure with Reduced Ejection Fraction (HFrEF)]]
 	- ![](https://ars.els-cdn.com/content/image/1-s2.0-S0735109722055942-gr2a.jpg)
 		- Figure source: [^2022-acc]
 

@@ -45,6 +45,18 @@ $$
 \text{CI} = (\text{SV} \times \text{HR})/\text{BSA}
 $$
 
+```python
+def calculate_hemodynamics(vti_lvot, lvot_diameter, heart_rate, bsa, 
+                           sbp, dbp, est_rap):
+    stroke_volume = 0.785 * (lvot_diameter ** 2) * vti_lvot
+    svi = (stroke_volume / bsa) if bsa != 0 else 0
+    cardiac_output = stroke_volume * heart_rate
+    cardiac_index = cardiac_output / bsa
+    map = (sbp + (2 * dbp)) / 3
+    svr = (map - est_rap) / cardiac_output
+    return stroke_volume, svi, cardiac_output, cardiac_index, svr
+```
+
 # Continuity Equation for Aortic Valve Area
 
 - Echo Measurements (ASE guidelines)
@@ -62,6 +74,14 @@ From the Mayo Board Review course, which highlights the importance of assessing 
 
 ![[Echo Math-20240731135211518.webp|552]]
 
+```python
+def calculate_aortic_stenosis(vmax, vti_lvot, vti_ao, lvot_diameter):
+    mean_gradient = 4 * (vmax ** 2)
+    stroke_volume = 0.785 * (lvot_diameter ** 2) * vti_lvot
+    ava = (stroke_volume / vti_ao) if vti_ao != 0 else 0
+    return mean_gradient, stroke_volume, ava
+```
+
 # Systemic Vascular Resistance (SVR)
 
 $$
@@ -73,6 +93,7 @@ Using IVC collapsibility indices to estimate RAP, and arm blood pressure measure
 $$
 \text{SVR} = \frac{\text{MAP} - \text{RAP}}{\text{CO}}
 $$
+
 
 # Pulmonary Vascular Resistance (PVR)
 

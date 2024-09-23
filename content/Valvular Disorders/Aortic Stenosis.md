@@ -79,7 +79,62 @@ The following figure illustrates the interplay of factors that influence myocard
 		- Goal: prevent progression [[Aortic Regurgitation|AR]]
 		- ∴ resection indicated in most pts, especially if severe or symptomatic
 
+# Hemodynamics of AS
+
+## Transvalvular Pressure Gradient
+
+![[Aortic Stenosis-20240922213813640.webp]]
+
+## Normal Heart Hemodynamics
+In the normal heart, when the LV starts to squeeze during systole, it generates a pressure that easily plops open the [[Aortic Valve|aortic valve]] when the pressure in the LV meets the pressure in the aorta. When this occurs, the LV and the aorta become so in love that they share the *same pressure* 🫂 until the LV relaxes and the aortic valve closes, and the romance between the LV and aorta abruptly ends until the next cardiac cycle. ==∴, in the *normal* situation, the systolic pressure in the LV is the same as the aortic pressure during systole, and there is <u>no pressure gradient</u>.== [^cn001]
+
+## Aortic Stenosis Hemodynamics
+
+**Gradients**
+In aortic stenosis, picture a soda bottle with a tiny pinhole through the cap. Now, during systole,
+ when we're trying to squeeze soda out of the bottle (the LV in this example), you really need to generate a lot of pressure to get that small amount of volume out of the pinhole. This creates a massive pressure gradient between the LV and the aorta, which normally does not exist. If you think about it, this is a setup for a real problem. Because a peak gradient of 64 mmHg means that in order for your aortic pressure to be just 120 mmHg, i.e. a normal SBP of 120, the LV has to be 120 + 64 mmHg = 184! [^cn001]
+ ∴ if you have a [[Hypertension|hypertensive patient]], for example, who also has aortic stenosis with a systemic systolic blood pressure of 160 mmHg,  then their left ventricle would have the burden of generating a systolic pressure of 160 + 64, i.e. 224 mmHg with each and every heartbeat! 😱
+
+**Pressures**
+When the valve is tight, the velocity of the blood going through the valve must increase to keep the flow through the [[Left Ventricular Outflow Tract (LVOT)|LVOT]] and the [[Aortic Valve|aortic valve]] constant. Recall, $\text{Flow rate} = \text{Area} \times \text{Velocity}$, so the velocity has to ↑ when the area is ↓ to maintain the flow rate. Analogy: Think of crimping the water hose while you're watering your plants.
+We use the **modified Bernoulli equation** ($\Delta P = 4 \cdot V^2$) to convert the Doppler velocity to pressure gradients across the [[Aortic Valve|AV]]. So as the blood shoots through that tight aortic valve and we clock a velocity of 4 m/s using Doppler on echo,  we can convert that to a peak gradient of 64 mmHg, which raises our concern that that poor ventricle is working way too hard.
+
+# Ventricular Remodeling with AS
+
+## Initial: Compensatory Concentric LV Hypetrophy
+
+**Compensatory concentric LVH that is adaptive to ↑ afterload**
+The increased gradient that is needed with AS as [[Aortic Stenosis#Aortic Stenosis Hemodynamics|discussed above]] initially leads to first to **adaptive remodeling of the LV** as the LV tries to deal with all the stress of this ↑ afterload. Recall that wall stress by the **law of Laplace** is proportional to the ventricular systolic pressure times the chamber radius, divided by 2 times LV wall thickness.
+
+$$
+\text{Wall Tension } (T) = \frac{\text{Transmural Pressure} \times \text{Radius}}{2 \cdot \text{Wall Thickness } (t)} 
+$$
+
+**How does the LV deal with the increased stress of increased pressure?** It increases wall thickness. The analogy being lifting weights leads to ↑ muscle mass 💪. There are more parallel muscle fibers and really more parallel sarcomere units to work together to get to that whopping systolic blood pressure so that each individual unit experiences *less* tension. This is also what happens in patients with [[Hypertension|systemic hypertension]], which is really just increased pressure for the LV to pump against.
+ 
+![[Aortic Stenosis-20240922215206567.webp]]
+
+## Progressive: Fibrosis, LV Dilatation, and Progressive Eccentric Hypetrophy
+
+Over time, these changes become maladaptive as fibrosis accumulates and the LV dilates with progressive eccentric hypertrophy. The LV ultimately fails with systolic dysfunction and downstream effects like [[Mitral Regurgitation#Secondary Mitral Regurgitation|functional MR]], [[Pulmonary Hypertension|pulmonary hypertension]] and [[Right Heart Failure|RV dysfunction]].
+
 # Severe AS
+
+
+> [!hint] 1, 4, 40, and 64
+> AVA < 1.0 cm2
+> Peak velocity > 4 m/s
+> Mean gradient > 40 mmHg
+> Peak gradient > 64 mmHg
+
+In severe aortic stenosis, you have <u>two issues</u> going on:
+1. A **structural** problem *and* 
+	1. small valve area: the [[Aortic Valve|AV]] is tight and doesn't open up properly → quantify the **aortic valve area (AVA)**
+2. A **hemodynamic consequence** of that structural problem
+	1. the ↑ mean and peak gradients needed to get blood through that tight valve (See [[Aortic Stenosis#Hemodynamics of AS|Hemodynamics of AS]]) →
+		1. Initial: adaptive remodeling of the LV as the LV tries to deal with all the stress of this ↑ afterload
+**Recap**: You have a structural problem is that the aortic valve area is tight. That leads to a [[Aortic Stenosis#Aortic Stenosis Hemodynamics|hemodynamic consequence]] of an elevated pressure gradient, which then translates to [[Aortic Stenosis#Ventricular Remodeling with AS|increased wall stress]] on the left ventricle. This then leads to left ventricular remodeling over time and other gnarly long-term downstream consequences like [[Heart Failure with Reduced Ejection Fraction (HFrEF)|left]] and [[Right Heart Failure|right heart failure]], [[Pulmonary Hypertension|pulmonary hypertension]], and [[Mitral Regurgitation#Secondary Mitral Regurgitation|functional MR]].
+
 
 - In up to 40% of patients, resting echocardiographic assessment of aortic stenosis severity is discordant, leading to clinical uncertainty.[^pawade]
 - Resources
@@ -97,7 +152,7 @@ Can be caused by either arrhythmia, obstruction, or due to vasodepressor effect 
 
 # Low-flow, Low-gradient AS
 
-- Observed when there is discordance in [[Echo Doppler|Doppler]] measurements, i.e. gradient < 40 mmHg and AVA < 1.0.
+- Observed when there is discordance in [[Echo Doppler|Doppler]] measurements, i.e. gradient < 40 mmHg and AVA < 1.0 cm2.
 - If suspecting LFLG AS, calculate the **dimensionless index (DI)** (ratio ≤ 0.25 consistent with *severe* AS), which is calculated either:
 	- using spectral Doppler to access the LV outflow tract to transaortic velocity ratio or 
 	- the LV outflow tract to transaortic valve velocity-time integral (more reliable method)
@@ -118,7 +173,25 @@ Can be caused by either arrhythmia, obstruction, or due to vasodepressor effect 
 ![[Aortic Stenosis-20240920194206117.webp]]
 # Diagnosis
 
+## Physical Exam
+
+Clues to *severe* AS
+- Delayed carotid upstroke (Pulsus parvus et tardus)
+	- LV has a hard time generating outward flow across a very tight valve → you can imagine that the flow will overall be diminished with a reduced stroke volume, and ∴ you can expect a delay in flow from the apex to the carotid artery (apical carotid delay) or from the brachial to the radial artery (brachioradial delay)
+- Sustained apical impulse
+- Late peaking murmur
+- Absent (or diminished) S2 heart sound
+	- because the valves and the leaflets are so calcified they're inflexible, and so they just close with less vigor
+
 ## Stages of AS Severity
+
+- **Stage A** are those patients who are at risk for aortic stenosis, like they have aortic sclerosis or thickening of the aortic valve or [[Rheumatic Heart Disease|rheumatic heart disease]] or prior radiation.
+	- 🔑 these patients do *not* have a hemodynamic problem or valve tight enough to cause issues (yet)
+- **Stage B** is the <u>progressive</u> stage, including both **mild** and **moderate** aortic stenosis
+- **Stage C** denotes *asymptomatic* **severe** aortic stenosis
+	- **C1**: preserved EF
+	- **C2**: reduced EF
+- Stage D is *Sx* **severe** aortic stenosis
 
 | Stage | Definition                                                                                                                           | Valve Anatomy                                                                                                                                                                                                                            | Valve Hemodynamics                                                                                                                                                                                                 | Hemodynamic Consequences                                                                                                            | Symptoms                                                                                                             |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -138,7 +211,8 @@ Can be caused by either arrhythmia, obstruction, or due to vasodepressor effect 
 - ⚠️ Measurements of AS severity made when the patient is hypertensive may underestimate or, less often, overestimate stenosis severity.[^2020-accaha]
 	- Systemic hypertension imposes a second pressure load on the LV, in addition to valve obstruction → ↓ forward stroke volume and lower transaortic pressure gradient than when the patient is normotensive. 
 	- If results indicate only moderate stenosis but were recorded when the patient was hypertensive, repeat measurements when the blood pressure is better controlled ensure that a diagnosis of severe AS is not missed.
-- LV size and function
+- LV size and function is important! See [[Aortic Stenosis#Aortic Stenosis Hemodynamics|above]] for stages of LV involvement d/t AS.
+	- Also pay attention to concurrent valvular lesions (risk of [[Mitral Regurgitation#Secondary Mitral Regurgitation|functional MR]]), pulmonary pressures (d/t risk of [[Pulmonary Hypertension|pulmonary hypertension]]), , and the right side (risk of [[Right Heart Failure|RV dysfunction]]).
 - Location of the stenosis
 	- Cannot tell severity of stenosis with 2D-echo alone. You will need [[Echo Doppler|Doppler]] to help determine severity of AS.
 	- Beware of concomitant *dynamic* LVOT obstruction
@@ -281,8 +355,20 @@ $$
 	- ![[Aortic Stenosis-20240808142427194.webp|347]]
 
 
+# Code
+
+```python
+def calculate_aortic_stenosis(vmax, vti_lvot, vti_ao, lvot_diameter):
+    mean_gradient = 4 * (vmax ** 2)
+    stroke_volume = 0.785 * (lvot_diameter ** 2) * vti_lvot
+    ava = (stroke_volume / vti_ao) if vti_ao != 0 else 0
+    return mean_gradient, stroke_volume, ava
+```
+
+
 [^adrichem]: Adrichem, R., Hokken, T. W., Bouwmeester, S., Abdelkarim, O., Vogel, B., Blusztein, D. I., Veulemans, V., Kuneman, J. H., Geleijnse, M. L., Verhemel, S., Van den Dorpel, M. M. P., Kardys, I., Tonino, P. A. L., Chang, S. M., Faza, N. N., Jou, S., Ueyama, H. A., Bartkowiak, J., Zeus, T., … Van Mieghem, N. M. (2024). Diagnostic Value of Aortic Valve Calcification Levels in the Assessment of Low-Gradient Aortic Stenosis. JACC: Cardiovascular Imaging, 17(8), 847–860. https://doi.org/10.1016/j.jcmg.2024.03.014
 [^2020-accaha]: Otto, C. M., Nishimura, R. A., Bonow, R. O., Carabello, B. A., Erwin, J. P., Gentile, F., Jneid, H., Krieger, E. V., Mack, M., McLeod, C., O’Gara, P. T., Rigolin, V. H., Sundt, T. M., Thompson, A., & Toly, C. (2021). 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation, 143(5). https://doi.org/10.1161/cir.0000000000000923
 [^treibel]: Treibel, T. A., Badiani, S., Lloyd, G., & Moon, J. C. (2019). Multimodality Imaging Markers of Adverse Myocardial Remodeling in Aortic Stenosis. JACC: Cardiovascular Imaging, 12(8), 1532–1548. https://doi.org/10.1016/j.jcmg.2019.02.034
 [^pawade]: Pawade, T., Sheth, T., Guzzetti, E., Dweck, M. R., & Clavel, M.-A. (2019). Why and How to Measure Aortic Valve Calcification in Patients With Aortic Stenosis. JACC: Cardiovascular Imaging, 12(9), 1835–1848. https://doi.org/10.1016/j.jcmg.2019.01.045
+[^cn001]: CardioNerds. “1. Aortic Stenosis: Case Discussion.” _Cardionerds_, 11 Dec. 2019, https://www.cardionerds.com/1-aortic-stenosis-part-1-case-discussion​/.
 
