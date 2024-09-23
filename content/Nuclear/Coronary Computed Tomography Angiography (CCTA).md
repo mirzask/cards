@@ -2,8 +2,11 @@
 tags:
   - stresstesting
 ---
+- CCTA can visualize and help to diagnose the extent and severity of non-obstructive and obstructive CAD, as well as atherosclerotic plaque composition and high-risk features (e.g., positive remodeling, low attenuation plaque).[^cp]
 - Coronary computed tomography angiography (CCTA) is a noninvasive diagnostic tool that can detect significant coronary artery stenoses and coronary atherosclerotic plaque.[^asia]
+- You can also subsequently calculate [[Fractional Flow Reserve (FFR)|fractional flow reserve]] with CT (FFR-CT), e.g. with HeartFlow.
 - CCTA has high [[Negative Predictive Value]] for excluding significant plaque or coronary stenosis [^asia]
+- Current radiation dosimetry is low for CCTA, with effective doses for most patients in the 3 to 5 mSv range[^cp]
 - The presence of significant stenosis in CCTA does not always mean the presence of ischemia-causing stenosis, ∴ presence of epicardial stenosis or atherosclerotic plaque on CCTA does not exclude the possibility of [[Ischemia with Nonobstructive Coronary Arteries (INOCA)|INOCA]].[^asia] 
 # Who is a poor candidate for CCTA?
 
@@ -22,3 +25,4 @@ tags:
 	- ![[Coronary Computed Tomography Angiography (CCTA)-20240815215719798.webp|508]]
 
 [^asia]: Hwang, D., Park, S.-H., & Koo, B.-K. (2023). Ischemia With Nonobstructive Coronary Artery Disease. JACC: Asia, 3(2), 169–184. https://doi.org/10.1016/j.jacasi.2023.01.004
+[^cp]: Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Journal of the American College of Cardiology. 2021;78(22):e187-e285. doi:10.1016/j.jacc.2021.07.053

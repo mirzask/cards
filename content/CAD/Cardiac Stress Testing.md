@@ -30,6 +30,15 @@ tags:
 			- DM
 			- Strong family history of CHD
 			- Previous risk assessment testing suggests high risk of CHD, (eg, [[Coronary Artery Calcium (CAC)|CAC]] score ≥ 400)
+
+# Contraindications by Stress Modality
+
+Source: Table 5 of [^cp]
+
+| [[Cardiac Stress Testing#Exercise ECG\|Exercise ECG]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Nuclear ([[Positron Emission Tomography (PET)\|PET]], [[Single-photon emission computed tomography (SPECT)\|SPECT]]) | [[Stress Echocardiography]] | [[Stress Cardiac MRI]] | [[Coronary Computed Tomography Angiography (CCTA)\|CCTA]] |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------------- | --------------------------------------------------------- |
+| - Abnormal ST changes on resting ECG, [[Digoxin\|digoxin]], [[Left Bundle Branch Block (BBB)\|LBBB]], Wolff-Parkinson- White pattern, ventricular paced rhythm (unless test is performed to establish exercise capacity and not for diagnosis of ischemia)<br>- Unable to achieve ≥5 METs or unsafe to exercise<br>- High-risk unstable angina or AMI (<2 d) i.e., active [[Acute Coronary Syndromes (ACS)\|ACS]]<br>- Uncontrolled [[Heart Failure with Reduced Ejection Fraction (HFrEF)\|HF]]<br>- Significant cardiac arrhythmias (e.g., [[Ventricular Tachycardia\|VT]], complete atrioventricular block) or high risk for arrhythmias caused by QT prolongation<br>- Severe symptomatic [[Aortic Stenosis\|aortic stenosis]]<br>- Severe systemic arterial [[Hypertension\|hypertension]] (e.g., ≥200/110 mm Hg)<br>- Acute illness (e.g., acute PE, acute myocarditis/pericarditis, acute aortic dissection) |                                                                                                                      |                             |                        |                                                           |
+
 # Exercise ECG
 
 - Widely available and inexpensive
@@ -95,3 +104,5 @@ See [[Positron Emission Tomography (PET)|PET]]
 - Readily available
 - SCOT HEART Study - 📄  Coronary CT Angiography and 5-Year Risk of Myocardial Infarction. New England Journal of Medicine. 2018;379(10):924-933. doi:10.1056/nejmoa1805971
 	- ![|450](https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2018/nejm_2018.379.issue-10/nejmoa1805971/20180831/images/img_medium/nejmoa1805971_f2.jpeg)
+
+[^cp]: Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Journal of the American College of Cardiology. 2021;78(22):e187-e285. doi:10.1016/j.jacc.2021.07.053
