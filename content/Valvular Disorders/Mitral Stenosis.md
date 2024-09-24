@@ -33,6 +33,8 @@ The analogy that is often used to describe stenotic lesions is covering a hose w
 | Mean gradient (mmHg) | <5   | 5-10     | >10    |
 | PA pressure (mmHg)   | <30  | 30-50    | >50    |
 | Diastolic PHT (ms)   |      | <150     | ≥150   |
+The above criteria are based on a HR between 60 to 80 bpm and in sinus rhythm.
+
 📝 Because of the variability of the mean pressure gradient with HR and forward flow, you may not see it included in the criteria for severity.
 
 |Stage|Definition|Valve Anatomy|Valve Hemodynamics|Hemodynamic Consequences|Symptoms|

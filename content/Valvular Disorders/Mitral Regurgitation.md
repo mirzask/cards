@@ -46,7 +46,7 @@ tags:
 > Vena contracta ≥ 0.7 cm
 
 ![[Mitral Regurgitation-20240908080513538.webp]]
-Source: Page 8 of [Zoghbi slides](https://asecho.org/wp-content/uploads/2018/02/Zoghbi-Case-Studies-Quantification-of-Severity-of-Mitral-Regurgitation-with-New-ASE-Guidelines.pdf)
+Source: Figure 18 of [2017 ASE Valvular Guidelines](https://www.asecho.org/wp-content/uploads/2017/04/2017VavularRegurgitationGuideline.pdf)
 
 ![[Mitral Regurgitation-20240904182534622.webp]]
 

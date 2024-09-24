@@ -18,6 +18,9 @@ tags:
 	- B: progressive AR
 	- C: severe, but asymptomatic
 	- D: severe, symptomatic AR
+
+![[Aortic Regurgitation-20240923203140711.webp]]
+
 ![[Aortic Regurgitation-20240915111157436.webp]]
 ## Management
 

@@ -37,6 +37,8 @@ The following figure illustrates the interplay of factors that influence myocard
 	- **Supravalvular AS** - obstruction *above* the AV
 	- **Subvalvular AS** (10% of pts w/ AS), e.g. [[Subaortic Stenosis]] - obstruction *below* the AV
 
+![[Aortic Stenosis-20240923205330480.webp]]
+Figure source: Figure 15.20 from G. Ottaviani, L.M. Buja, in [Cardiovascular Pathology (Fourth Edition)](https://www.sciencedirect.com/book/9780124202191/cardiovascular-pathology), 2016
 # Valvular [[Aortic Stenosis]]
 
 > "Today's AS phenotype is a patient with [[Hypertension|hypertension]] and/or atherosclerotic disease" and AS is not just a valve disease, but is a "systemic" disease
@@ -90,12 +92,19 @@ In the normal heart, when the LV starts to squeeze during systole, it generates 
 
 ## Aortic Stenosis Hemodynamics
 
+
+> [!warning] Don't be fooled by **high-flow** states
+> Gradients and velocities may ↑ in high flow states and not actually reflect a truly severe aortic valve stenosis. Examples of conditions associated with high-output heart failure include anemia, thyrotoxicosis, sepsis or other distributive states, AV fistulas and Paget's disease.
+
+
 **Gradients**
+
 In aortic stenosis, picture a soda bottle with a tiny pinhole through the cap. Now, during systole,
  when we're trying to squeeze soda out of the bottle (the LV in this example), you really need to generate a lot of pressure to get that small amount of volume out of the pinhole. This creates a massive pressure gradient between the LV and the aorta, which normally does not exist. If you think about it, this is a setup for a real problem. Because a peak gradient of 64 mmHg means that in order for your aortic pressure to be just 120 mmHg, i.e. a normal SBP of 120, the LV has to be 120 + 64 mmHg = 184! [^cn001]
  ∴ if you have a [[Hypertension|hypertensive patient]], for example, who also has aortic stenosis with a systemic systolic blood pressure of 160 mmHg,  then their left ventricle would have the burden of generating a systolic pressure of 160 + 64, i.e. 224 mmHg with each and every heartbeat! 😱
 
 **Pressures**
+
 When the valve is tight, the velocity of the blood going through the valve must increase to keep the flow through the [[Left Ventricular Outflow Tract (LVOT)|LVOT]] and the [[Aortic Valve|aortic valve]] constant. Recall, $\text{Flow rate} = \text{Area} \times \text{Velocity}$, so the velocity has to ↑ when the area is ↓ to maintain the flow rate. Analogy: Think of crimping the water hose while you're watering your plants.
 We use the **modified Bernoulli equation** ($\Delta P = 4 \cdot V^2$) to convert the Doppler velocity to pressure gradients across the [[Aortic Valve|AV]]. So as the blood shoots through that tight aortic valve and we clock a velocity of 4 m/s using Doppler on echo,  we can convert that to a peak gradient of 64 mmHg, which raises our concern that that poor ventricle is working way too hard.
 
@@ -152,7 +161,20 @@ Can be caused by either arrhythmia, obstruction, or due to vasodepressor effect 
 
 # Low-flow, Low-gradient AS
 
+
+> [!tip] Measurement accuracy is key 🔑
+> AVA and the peak velocity and gradients are measured in different ways. The AVA is derived from the [[Echo Math#Continuity Equation for Aortic Valve Area|continuity equation]], which relies heavily on the [[Left Ventricular Outflow Tract (LVOT)|LVOT]] diameter. A small measurement error can grossly underestimate the AVA. Peak velocity and gradients are derived from [[Echo Doppler|Doppler]] measurements through the [[Aortic Valve|aortic valve]] and may represent the true stenosis status of our patients. If all of these measurements are legit, we can start thinking about low flow, low gradient aortic stenosis.[^cn001]
+
 - Observed when there is discordance in [[Echo Doppler|Doppler]] measurements, i.e. gradient < 40 mmHg and AVA < 1.0 cm2.
+- Low-flow is defined by a [[Stroke Volume]] Index (SVI) < 35 mL/m2
+- Comes in 2 flavors:
+	- **Stage D2**, i.e. LFLG AS with reduced LVEF (EF < 50%)
+		- low-dose [[Dobutamine Stress Echocardiography|dobutamine stress]] testing to further define severity and assess contractile reserve. (Class 2a)
+		- 🤔 a crappy ventricle (e.g. EF of 5%) will not be able to generate enough power to  create serious systolic pressures → ∴ unable to generate adequate flow across the stenotic [[Aortic Valve|aortic valve]].
+	- **Stage D3** (*paradoxical* LFLG AS), i.e. LFLG AS with preserved LVEF (EF ≥ 50%), but with a low [[Stroke Volume|stroke volume]]
+		- optimization of blood pressure control is recommended before measurement of AS severity by TTE, TEE, cardiac catheterization, or CMR. (Class I)
+		- 🤔 while the EF is "preserved," the ❤️ has limited [[Stroke Volume|stroke volume]] (e.g., infiltrative cardiomyopathy like [[Amyloidosis|amyloidosis]] or *severely* [[Left Ventricular Hypertrophy|hypertrophied left ventricles]]). Think about these situations where the volume in the LV at the end diastole is incredibly low. So even if the EF is "preserved," the actual amount of blood ejected through the ventricle cannot be substantial given the small amount of volume starting off in the LV prior to systole.
+- In both Stage D2 and D3, the valve can be super tight, but if the ventricle cannot generate enough pressure, a gradient will not be as high as it would have been if the ventricle had adequate squeeze.[^cn001]
 - If suspecting LFLG AS, calculate the **dimensionless index (DI)** (ratio ≤ 0.25 consistent with *severe* AS), which is calculated either:
 	- using spectral Doppler to access the LV outflow tract to transaortic velocity ratio or 
 	- the LV outflow tract to transaortic valve velocity-time integral (more reliable method)
@@ -162,10 +184,11 @@ Can be caused by either arrhythmia, obstruction, or due to vasodepressor effect 
 			- A normal ratio is close to 1.0, whereas a ratio of ≤0.25 corresponds to a valve area 25% of normal for that patient, which is consistent with severe AS and is a predictor of symptom onset and adverse outcomes. [^2020-accaha]
 		- Measure [[Aortic Valve|AV]] calcium score by CT imaging to further define severity (Class 2a)
 			- Sex-specific Agaston unit thresholds for diagnosis of severe AS are 1300 in women and 2000 in men. [^2020-accaha]
-	- Stage D2, i.e. LFLG AS with reduced LVEF
-		- low-dose [[Dobutamine Stress Echocardiography|dobutamine stress]] testing to further define severity and assess contractile reserve. (Class 2a)
-	- Stage D3, i.e. LFLG AS with preserved LVEF
-		- optimization of blood pressure control is recommended before measurement of AS severity by TTE, TEE, cardiac catheterization, or CMR. (Class I)
+
+$$
+\text{Velocity Ratio} = \frac{V_{\text{LVOT}}}{V_{AV}}
+$$
+
 - Stage D2 if EF < 50%
 - Stage D3 if EF ≥ 50%
 - TODO
@@ -221,6 +244,9 @@ Clues to *severe* AS
 
 ![[Aortic Stenosis-20240808162332240.webp]]
 ###  Grading of AS
+
+![[Aortic Stenosis-20240923203908921.webp]]
+Source: Figure 8 of [2017 ASE Valve Guidelines](https://www.asecho.org/wp-content/uploads/2017/04/2017ValveStenosisGuideline.pdf)
 
 - ==Valvular AS will be considered **severe** if mean gradient > 40 mmHg *or* peak velocity > 4 m/s (regardless of AVA)==
 	- ⚠️ With <u>mixed</u> aortic valve disease, significant AR can increase peak aortic valve velocity and mean aortic valve gradients because of high flow.
@@ -283,8 +309,15 @@ $$
 
 ## [[Dobutamine Stress Echocardiography]] in [[Aortic Stenosis#Low-flow, Low-gradient AS|low-flow, low-gradient AS]]
 
-- In patients with Stage D2 (LFLG AS with reduced LVEF), DSE is recommended to determine AS severity and differentiate true- versus pseudo-severe AS
+- In patients with **Stage D2** (LFLG AS with reduced LVEF), DSE is recommended to determine AS severity and differentiate true- versus pseudo-severe AS
 	- In these patients, severe AS with LV systolic dysfunction attributable to afterload mismatch must be distinguished from primary myocardial dysfunction with only moderate AS. [^2020-accaha]
+- 3 possible outcomes of DSE: [^cn001]
+	- **Pseudostenosis**: gradients stay low *and* the AVA improves
+		- The [[Aortic Valve|AV]] isn't too stenotic, but it just doesn't open up well at baseline due to a weak ventricle.
+	- **Poor contractile reserve**: gradients stay low *and* AVA < 1.0 cm2.
+		- These patients have poor prognosis, even with aortic valve replacement
+	- **True aortic stenosis**: [[Dobutamine]] provides added contractility to the LV → LV systolic pressure increases → [[Stroke Volume|SV]] ↑ → transvalvular gradients increase to a severe range.
+		- These patients do best with AV replacement
 - DSE Interpretation [^2020-accaha]
 	- Severe AS is characterized by a fixed valve area, resulting in an increase in transaortic velocity to ≥4 m/s (mean gradient ≥40 mm Hg) at any flow rate, but with valve area remaining ≤1.0 cm2. 
 	- In contrast, in patients with moderate AS and primary LV dysfunction, there is an increase in valve area as volume flow rate increases, resulting in only a modest increase in transaortic velocity or gradient, i.e. peak velocity remains < 4 m/s or mean gradient < 40 mmHg with even as high of 20 mcg/kg/min of [[Dobutamine|dobutamine]]
