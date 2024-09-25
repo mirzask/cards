@@ -69,5 +69,5 @@ Table source: 📄 Sicari, R., Nihoyannopoulos, P., Evangelista, A., Kasprzak, J
 	- Vasospasm
 	- Small vessel CAD
 	- Apical ballooning syndrome
-	- [[Amyloidosis]]
+	- [[content/Amyloidosis]]
 
