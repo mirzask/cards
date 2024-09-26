@@ -23,13 +23,21 @@ aliases:
 		- Figure source: [^beltrame]
 - Indications for provocative spasm testing:
 	- ![[Vasospastic Angina-20240817140328025.webp]]
-- Management
-	- 🚭 [[Smoking Cessation]] and avoiding other provoking agents
-	- Acute: [[Nitroglycerin|nitroglycerin]]
-	- [[Calcium Channel Blockers (CCBs)|CCBs]], such as amlodipine and diltiazem to prevent vasoconstriction.
-	- +/- long-acting [[Nitrates|nitrates]] (use in combination with [[Calcium Channel Blockers (CCBs)|CCBs]])
-	- Timing of Rx
-		- Considering the diurnal variation of vasospastic attack, prescription time can be an important issue. To prevent angina in the early morning or at midnight, medication before sleep, not after dinner, can be useful to prevent the symptom [^asia]
+
+# Management
+
+- 🚭 [[Smoking Cessation]] and avoiding other provoking agents
+- Acute: [[Nitroglycerin|nitroglycerin]]
+- [[Calcium Channel Blockers (CCBs)|CCBs]], such as amlodipine and diltiazem to prevent vasoconstriction.
+- +/- long-acting [[Nitrates|nitrates]] (use in combination with [[Calcium Channel Blockers (CCBs)|CCBs]])
+- Timing of Rx
+	- Considering the diurnal variation of vasospastic attack, prescription time can be an important issue. To prevent angina in the early morning or at midnight, medication before sleep, not after dinner, can be useful to prevent the symptom [^asia]
+
+| Treatment                                                                                                                                                | Mechanism of effect                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [[Calcium Channel Blockers (CCBs)\|CCBs]] (Amlodipine 10 mg or Verapamil 240 mg SR or Diltiazem 90 mg twice daily or 120–360 mg single or divided doses) | - ↓ Spontaneous and inducible coronary spasm via vascular smooth muscle relaxation<br>- ↓ Oxygen demand |
+| [[Nitrates]] (Isosorbide mononitrate XL 30 mg)                                                                                                           | - ↓ Spontaneous and inducible coronary spasm via large epicardial vasodilation<br>- ↓ Oxygen demand     |
+| Nicorandil (10-20 mg twice daily)                                                                                                                        | - Potassium channel activator with coronary microvascular dilatory effect                               |
 
 
 > [!warning] Avoid non-selective [[Beta-blockers|BBs]]
@@ -37,3 +45,4 @@ aliases:
 
 [^beltrame]: Beltrame, J. F., Crea, F., Kaski, J. C., Ogawa, H., Ong, P., Sechtem, U., Shimokawa, H., & Bairey Merz, C. N. (2015). International standardization of diagnostic criteria for vasospastic angina. European Heart Journal, ehv351. https://doi.org/10.1093/eurheartj/ehv351
 [^asia]: Hwang, D., Park, S.-H., & Koo, B.-K. (2023). Ischemia With Nonobstructive Coronary Artery Disease. JACC: Asia, 3(2), 169–184. https://doi.org/10.1016/j.jacasi.2023.01.004
+[^eapci]: Kunadian, V., Chieffo, A., Camici, P. G., Berry, C., Escaned, J., Maas, A. H. E. M., Prescott, E., Karam, N., Appelman, Y., Fraccaro, C., Louise Buchanan, G., Manzo-Silberman, S., Al-Lamee, R., Regar, E., Lansky, A., Abbott, J. D., Badimon, L., Duncker, D. J., Mehran, R., … Baumbach, A. (2020). An EAPCI Expert Consensus Document on Ischaemia with Non-Obstructive Coronary Arteries in Collaboration with European Society of Cardiology Working Group on Coronary Pathophysiology &amp; Microcirculation Endorsed by Coronary Vasomotor Disorders International Study Group. European Heart Journal, 41(37), 3504–3520. https://doi.org/10.1093/eurheartj/ehaa503

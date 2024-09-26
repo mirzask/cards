@@ -14,8 +14,8 @@ aliases:
 	- Improved assessment of extent and severity of epicardial CAD
 	- Improved risk stratification
 	- Improves selection of patients for coronary interventions and/ or medical therapy
-	- Can identify coronary microvascular disease
-		- Diagnosis of **coronary microvascular disease**, a common cause of cardiac-related symptoms. Coronary microvascular disease, with or without epicardial CAD, has prognostic and quality of life significance in both women and men, and is addressable by targeted therapies.
+	- Can identify [[Microvascular Dysfunction|Coronary Microvascular Dysfunction]]
+		- Diagnosis of **[[Microvascular Dysfunction|coronary microvascular disease]]**, with or without epicardial CAD, has prognostic and quality of life significance in both women and men, and is addressable by targeted therapies.
 	- Provides assurance that vasodilator stress has been effective
 		- Confirmation of adequate pharmacologic stress in patients who may not respond to pharmacologic stressors and go totally unrecognized with traditional MPI, with the risk of an apparently normal scan in the presence of severe coronary disease. The only way to be certain that vasodilation and hence augmentation of blood flow has occurred is by measuring MBF.
 
@@ -27,9 +27,20 @@ $$
 \text{CFR} = \frac{\text{stress MBF}}{\text{rest MBF}}
 $$
 - Coronary flow reserve (CFR), the ratio of maximal myocardial blood flow (MBF) during pharmacologically-induced coronary vasodilation to resting MBF, is an integrated measure of flow through both the large epicardial coronary arteries and the microcirculation.
+	- The calculation of CFR assumes that maximal vasodilatation is achieved, which is done by abolishing coronary vasomotor tone, often with vasodilators like Regadenoson. For invasive CFR determination in the cath lab, this is often obtained following intravenous [[Adenosine|adenosine]] administration.
 - Indirect parameter to evaluate the function of the coronary circulation
 - Impairment is a strong predictor of CV mortality
 - ⚠️ High resting flows, e.g. d/t ↑ BP, may *falsely* lower your CFR measurement
+	- Resting MBF has a linear relationship with cardiac work, and CFR is influenced by metabolic demand, diastolic time, and driving blood pressure. ∴, when comparing different patients, resting MBF values must be corrected to take into account the main determinants of external cardiac workload, namely SBP and HR (rate-pressure product)
+
+$$
+\begin{align}
+\text{Rate-pressure Product (RPP)} = \text{HR} \times \text{SBP} \\
+\text{Corrected CFR} = \frac{\text{stress MBF}}{\text{rest MBF} \times \frac{10,000}{\text{RPP}}}
+\end{align}
+$$
+
+- In the absence of obstructive stenosis of the epicardial arteries, reduced CFR is a marker of [[Microvascular Dysfunction|Coronary Microvascular Dysfunction]], but because obstructive disease of the epicardial arteries and [[Microvascular Dysfunction|CMD]] often coexist, discrimination between the effects of these two conditions on myocardial perfusion is challenging. [^cmd-natrev]
 
 
 # Quality Control of Myocardial Blood Flow
@@ -143,3 +154,4 @@ Source: [^bateman]
 
 [^asnc]: Dilsizian V, Bacharach SL, Beanlands RS, et al. ASNC imaging guidelines/SNMMI procedure standard for positron emission tomography (PET) nuclear cardiology procedures. Journal of Nuclear Cardiology. 2016;23(5):1187-1226. doi:10.1007/s12350-016-0522-3
 [^bateman]: Bateman TM, Heller GV, Beanlands R, et al. Practical Guide for Interpreting and Reporting Cardiac PET Measurements of Myocardial Blood Flow: An Information Statement from the American Society of Nuclear Cardiology, and the Society of Nuclear Medicine and Molecular Imaging. Journal of Nuclear Medicine. 2021;62(11):1599-1615. doi:10.2967/jnumed.121.261989
+[^cmd-natrev]: Camici, P. G., d’Amati, G., & Rimoldi, O. (2014). Coronary microvascular dysfunction: mechanisms and functional assessment. Nature Reviews Cardiology, 12(1), 48–62. https://doi.org/10.1038/nrcardio.2014.160

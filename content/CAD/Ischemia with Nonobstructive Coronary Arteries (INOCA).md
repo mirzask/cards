@@ -22,6 +22,12 @@ aliases:
 
 CFR = coronary flow reserve; ECG = electrocardiogram; FFR = fractional flow reserve; HMR = hyperemic microvascular resistance; IMR = index of microcirculatory resistance; INOCA = ischemia with nonobstructive coronary artery disease; NHPR = nonhyperemic pressure ratio.
 
+![[Ischemia with Nonobstructive Coronary Arteries (INOCA)-20240925173235501.webp]]
+Source: Figure 2 of [^eapci]
+
+![[Ischemia with Nonobstructive Coronary Arteries (INOCA)-20240925182931940.webp]]
+Figure source: Figure 1 of [^cmd-natrev]
+
 - Sequence of evaluation:
 	- Step 1: Exclude flow-limiting/obstructive <u>epicardial</u> [[Coronary Artery Disease (CAD)|CAD]]
 	- Step 2: [[Ischemia with Nonobstructive Coronary Arteries (INOCA)#Physiologic Testing|Physiologic testing]] to assess for [[Microvascular Dysfunction|coronary microvascular disease]]
@@ -40,6 +46,7 @@ Figure source: Figure 14 of [^cp]
 - Metrics
 	- [[Fractional Flow Reserve (FFR)]] or non-hyperemic pressure ratio (NHPR) is a standard invasive method to define ischemia-causing epicardial coronary artery lesions.[^asia]
 		- FFR ≤0.80 and NHPR ≤0.89 indicate flow-limiting or ischemia-causing epicardial coronary artery stenosis
+	- Index of Microvascular Resistance (IMR)
 
 | Physiologic Index | Definition                                                                                  | Cutoff Value    | Features                                                                                                                                                           |
 | ----------------- | ------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -60,5 +67,36 @@ Caption: Invasive physiologic indexes are helpful in identifying the presence of
 - When angina and ischemic electrocardiographic changes (ST-segment depression or elevation ≥0.1 mV) in at least 2 contiguous leads occur after [[Acetylcholine|acetylcholine]] infusion without significant epicardial coronary artery constriction (<90%), the presence of <u>microvascular</u> [[Vasospastic Angina|spasm]] can be diagnosed
 - Complications include refractory spasm by provocation test or fatal arrhythmia
 
+# Management
+
+![[Ischemia with Nonobstructive Coronary Arteries (INOCA)-20240925173415704.webp|627]]
+Source: Figure 5 of [^eapci]
+
+- Lifestyle modification
+- Risk factor management, including [[Hypertension|hypertension]], [[Hyperlipidemia|HLD]], [[Smoking Cessation|smoking]], and [[Diabetes|diabetes]]
+	- Optimal BP 💊 depends on INOCA endotype
+- [[Anti-Anginal Therapy]]
+	- [[Calcium Channel Blockers (CCBs)]] should be considered 1st-line in patients with evidence of either epicardial or microvascular spasm following acetylcholine testing
+
+## Management of Microvascular Angina
+
+Table source: Table 3 of [^eapci]
+
+| Treatment                                                                    | Mechanism of effect                                                                                                                                |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Beta-blockers\|BBs]] (Nebivolol 2.5–10 mg daily)                           | - ↓ Myocardial oxygen consumption<br>- Antioxidant properties                                                                                      |
+| [[Calcium Channel Blockers (CCBs)\|CCBs]] (Amlodipine 10 mg daily)           | - Vascular smooth muscle relaxation<br>- ↓ Myocardial oxygen consumption                                                                           |
+| [[Ranolazine]] (375–750 mg twice daily or 500 mg–1 g twice daily in the USA) | - Improves microvascular perfusion reserve index in patients with MVA and reduced [[Myocardial Blood Flow (MBF)#Coronary Flow Reserve (CFR)\|CFR]] |
+| Trimetazidine (35 mg twice daily)                                            | - Increases cell tolerance to ischaemia by maintaining cellular homeostasis                                                                        |
+| ACE inhibitors (Ramipril 2.5 - 10mg), ARBs                                   | - Improve [[Myocardial Blood Flow (MBF)#Coronary Flow Reserve (CFR)\|CFR]]<br>- ↓ Workload<br>- May improve small vessel remodelling               |
+
+## Management of [[Vasospastic Angina]]
+
+See [[Vasospastic Angina#Management|Management of Vasospastic Angina]]
+
+
+
 [^asia]: Hwang, D., Park, S.-H., & Koo, B.-K. (2023). Ischemia With Nonobstructive Coronary Artery Disease. JACC: Asia, 3(2), 169–184. https://doi.org/10.1016/j.jacasi.2023.01.004
 [^cp]: Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Journal of the American College of Cardiology. 2021;78(22):e187-e285. doi:10.1016/j.jacc.2021.07.053
+[^eapci]: Kunadian, V., Chieffo, A., Camici, P. G., Berry, C., Escaned, J., Maas, A. H. E. M., Prescott, E., Karam, N., Appelman, Y., Fraccaro, C., Louise Buchanan, G., Manzo-Silberman, S., Al-Lamee, R., Regar, E., Lansky, A., Abbott, J. D., Badimon, L., Duncker, D. J., Mehran, R., … Baumbach, A. (2020). An EAPCI Expert Consensus Document on Ischaemia with Non-Obstructive Coronary Arteries in Collaboration with European Society of Cardiology Working Group on Coronary Pathophysiology &amp; Microcirculation Endorsed by Coronary Vasomotor Disorders International Study Group. European Heart Journal, 41(37), 3504–3520. https://doi.org/10.1093/eurheartj/ehaa503
+[^cmd-natrev]: Camici, P. G., d’Amati, G., & Rimoldi, O. (2014). Coronary microvascular dysfunction: mechanisms and functional assessment. Nature Reviews Cardiology, 12(1), 48–62. https://doi.org/10.1038/nrcardio.2014.160
