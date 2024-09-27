@@ -10,6 +10,24 @@ aliases:
 	- focal
 	- diffuse
 	- focal and diffuse
+- Steps to reading PYP scans [^jaber]
+	- Review the planar images
+	- Review the semi-quantitative score
+	- Calculate a quantitative ratio (H/CL)
+	- Review Transmission and Emission images
+		- Look to see that the uptake (if present) is in the myocardium, rather than blood pool in the LV and/or RV
+		- Common to see sparing at the apex ("strain sparing pattern at the apex")
+		- Also look for extracardiac uptake, e.g. patients can have rib fractures post-CPR
+		- ![[Pyrophosphate (PYP) Imaging-20240927131438895.webp|515]]
+	- Adjust the reconstruction planes
+	- Review reconstructed images
+		- ![[Pyrophosphate (PYP) Imaging-20240927131625861.webp|541]]
+			- If you see RV uptake as in the reconstructed images shown in the above example, be sure to comment on it. This example also demonstrates the apical strain sparing pattern noted above.
+	- Review the CT images, including lung windows and bone windows
+		- 📝 there is often overlap between [[Amyloidosis|amyloid heart disease]] and [[Aortic Stenosis|aortic stenosis]]
+	- Review ancillary data, e.g. Echo, ECG, [[Troponin]], [[Natriuretic Peptides]]
+		- 📝 at least 50% of patients with ATTR [[Amyloidosis|amyloidosis]] will not satisfy low-voltage criteria on ECG
+	- Generate a clinically meaningful report
 
 # Acquisition
 
@@ -43,3 +61,4 @@ $$
 - When myocardial uptake is visually present on SPECT images ==H/CL ratios of ≥1.5 at one hour are classified as ATTR positive== and ratios of <1.5 ATTR negative
 
 [^asnc-2021]: https://www.asnc.org/wp-content/uploads/2024/05/19110-2021-ASNC-Amyloid-Practice-Points-PYP-MAY19-2022-1.pdf
+[^jaber]: Tc-PYP scan for A-TTR Cardiac Amyloid - YouTube. https://www.youtube.com/watch?v=xHFQMsvmk_k. Accessed 27 Sept. 2024.
