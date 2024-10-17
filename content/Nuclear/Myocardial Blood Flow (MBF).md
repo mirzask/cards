@@ -6,12 +6,15 @@ aliases:
   - MBF
   - MBFR
 ---
+- [[Positron Emission Tomography (PET)|PET]] measurement of MBF assesses the entire coronary circulation, including focal obstruction and diffuse disease of the epicardial coronary arteries, the functioning of the microvasculature(‼️), and the ability of the cell membrane to transport the radionuclide into the cell.
+	- Yes, MBF can be useful for detection of [[Microvascular Dysfunction|coronary microvascular disease]]
 - Interpretation of myocardial perfusion imaging (MPI) studies has been primarily qualitative or semi-quantitative in nature, assessing regional perfusion defects in relative terms. Quantitative positron emission tomography (PET) measurements of myocardial blood flow (MBF) in absolute terms (milliliters per gram per minute) offer a paradigm shift in the evaluation and management of patients with CAD.[^asnc]
 	- Coincides with shift from anatomical gold standard (i.e., coronary angiogram) to a functional one
 - Non-invasive quantification of MBF extends the scope of conventional MPI from detection of end-stage, advanced, and flow-limiting epicardial CAD to early stages of atherosclerosis or microvascular dysfunction and assessment of balanced reduction of MBF in all three major coronary arteries.[^asnc]
 - Useful to couple MPI with [[Cardiac PET Imaging#Quantification of Myocardial Blood Flow|quantification of myocardial blood flow (MBF)]] as MBF adds usefulness in 6 distinctive areas: [^bateman]
 	- Improved diagnosis of epicardial CAD
 	- Improved assessment of extent and severity of epicardial CAD
+		- Traditional [[Single-photon emission computed tomography (SPECT)|SPECT]] or [[Positron Emission Tomography (PET)|PET MPI]] detects obstructive CAD but potentially under-assesses CAD extent and severity.
 	- Improved risk stratification
 	- Improves selection of patients for coronary interventions and/ or medical therapy
 	- Can identify [[Microvascular Dysfunction|Coronary Microvascular Dysfunction]]
@@ -39,6 +42,44 @@ $$
 \text{Corrected CFR} = \frac{\text{stress MBF}}{\text{rest MBF} \times \frac{10,000}{\text{RPP}}}
 \end{align}
 $$
+```python
+def calculate_mbfr(MBF_stress, MBF_rest, HR=None, SBP=None):
+  """Calculates myocardial blood flow reserve (MBFR).
+
+  Args:
+    MBF_stress: Blood flow during hyperemic conditions (mL/min/g).
+    MBF_rest: Blood flow at rest (mL/min/g).
+    HR: heart rate (bpm), optional
+    SBP: systolic blood pressure (mmHg), optional
+
+  Returns:
+    MBFR as a float.
+  """
+
+  if MBF_rest == 0:
+    return "Error: Resting blood flow cannot be zero."
+  else:
+    if hr is not None and sbp is not None:
+      rpp = hr * sbp
+      mbfr = hyperemia_flow / resting_flow * (1 + 1e4/rpp)
+      return mbfr
+    else:
+      mbfr = hyperemia_flow / resting_flow
+      return mbfr
+
+# Example
+MBF_stress = 1.7
+MBF_rest = 1.1
+HR = 95
+SBP = 160
+
+calculate_mbfr(MBF_stress, MBF_rest)
+calculate_mbfr(MBF_stress, MBF_rest, HR, SBP)
+```
+
+> [!NOTE] MBF is _dynamic_ and responds to ∆ in myocardial work
+> The two main determinants of myocardial work are **heart rate** and **systolic blood pressure**.
+
 
 - In the absence of obstructive stenosis of the epicardial arteries, reduced CFR is a marker of [[Microvascular Dysfunction|Coronary Microvascular Dysfunction]], but because obstructive disease of the epicardial arteries and [[Microvascular Dysfunction|CMD]] often coexist, discrimination between the effects of these two conditions on myocardial perfusion is challenging. [^cmd-natrev]
 
