@@ -43,7 +43,7 @@ $$
 \end{align}
 $$
 ```python
-def calculate_mbfr(MBF_stress, MBF_rest, HR=None, SBP=None):
+def calculate_mbfr(MBF_stress, MBF_rest, hr=None, sbp=None):
   """Calculates myocardial blood flow reserve (MBFR).
 
   Args:
@@ -56,15 +56,14 @@ def calculate_mbfr(MBF_stress, MBF_rest, HR=None, SBP=None):
     MBFR as a float.
   """
 
-  if MBF_rest == 0:
+  if MBF_rest <= 0:
     return "Error: Resting blood flow cannot be zero."
-  else:
-    if hr is not None and sbp is not None:
+  elif hr is not None and sbp is not None:
       rpp = hr * sbp
-      mbfr = hyperemia_flow / resting_flow * (1 + 1e4/rpp)
+      mbfr = MBF_stress / ( MBF_rest * (9000/rpp) )
       return mbfr
-    else:
-      mbfr = hyperemia_flow / resting_flow
+  else:
+      mbfr = MBF_stress / MBF_rest
       return mbfr
 
 # Example

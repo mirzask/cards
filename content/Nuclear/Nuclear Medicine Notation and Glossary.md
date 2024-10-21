@@ -42,5 +42,6 @@ tags:
 	- These detectors consist of a scintillator crystal coupled to a photodetector
 	- The scintillation crystal converts gamma radiation into visible light, which is detected and converted into an electric signal
 	- ![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12350-018-1283-y/MediaObjects/12350_2018_1283_Fig1_HTML.png)
-- Image quality largely determined by the signal to noise ratio
+- Image quality largely determined by the signal-to-noise ratio
 - The greater the sensitivity of a system, the higher the counts, the higher the signal to noise ratio
+- CZT crystals have negligible decay time (near instantaneous) and highest output compared to other scintigraphy cyrstals.

@@ -15,6 +15,12 @@ aliases:
 		- If no perfusion defects → no need to proceed with metabolic images.
 		- However, an evaluation for ischemia may be helpful if there is uncertainty about whether the severity or burden of coronary artery disease (CAD) results in ischemia. When such uncertainty exists, a [[Myocardial Blood Flow (MBF)|quantitative evaluation of myocardial blood flow]] at stress + rest may be helpful. 
 			- Retrospective data have shown that the presence of abnormal [[Myocardial Blood Flow (MBF)|myocardial blood flow reserve]] may identify patients who are more likely to derive benefit from coronary revascularization.
+- Anatomy of a PET camera
+	- Detector blocks are made up of many 3-4 mm rectangular crystals and 4 PMTs
+	- Several detector blocks are combined to form "buckets"
+	- FOV is typically around 15 cm
+	- 3 vs 4 ring systems
+	- ![[Positron Emission Tomography (PET)-20241021125659747.webp|362]]
 - For PET alone (compared to hybrid imaging, such as [[Positron Emission Tomography (PET)#Hybrid PET/CT|PET/CT]]), the image intensity reflects organ function and <u>physiology</u> as opposed to anatomy. [^asnc]
 - **Annihilation**
 	- A positron is a positively charged electron.

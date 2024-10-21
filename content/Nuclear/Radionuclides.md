@@ -21,6 +21,7 @@ tags:
 	- Readily available
 	- Inexpensive
 
+![[Radionuclides-20241021121956887.webp|442]]
 # Production of Isotropes
 
 - Since none of these occur naturally in nature, we have to produce them in some kind of either through using an accelerator to crash atoms together *or* in a reactor to force neutrons into the nucleus to change the nuclear composition of these atoms.
