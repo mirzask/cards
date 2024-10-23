@@ -33,4 +33,9 @@ tags:
 	- See 📄 Chang SM, Nabi F, Xu J, et al. Value of CACS Compared With ETT and Myocardial Perfusion Imaging for Predicting Long-Term Cardiac Outcome in Asymptomatic and Symptomatic Patients at Low Risk for Coronary Disease. JACC: Cardiovascular Imaging. 2015;8(2):134-144. doi:10.1016/j.jcmg.2014.11.008
 	- ![](https://ars.els-cdn.com/content/image/1-s2.0-S1936878X14009528-gr2.jpg)
 
+# Stress ECG Interpretation
+
+
+
 [^cp]: Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Journal of the American College of Cardiology. 2021;78(22):e187-e285. doi:10.1016/j.jacc.2021.07.053
+[^asnc-rep]: Tilkemeier PL, Bourque J, Doukky R, Sanghani R, Weinberg RL. ASNC imaging guidelines for nuclear cardiology procedures. Journal of Nuclear Cardiology. 2017;24(6):2064-2128. doi:10.1007/s12350-017-1057-y
