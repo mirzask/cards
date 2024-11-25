@@ -1,0 +1,15 @@
+---
+tags:
+  - prevention
+---
+- Lowers risk of:
+	- Death from CV Disease and Stroke
+	- Death from Cancer
+	- [[Diabetes]]
+	- Alzheimer's Disease (dementia)
+	- Arthritis
+	- Parkinson's Disease
+	- Macular Degeneration
+	- Erectile Dysfunction
+	- Female Sexual Dysfunction
+	- [[Atrial Fibrillation]]
