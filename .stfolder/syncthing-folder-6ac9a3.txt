@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: cards
+created: 2024-11-24T20:35:27-06:00
